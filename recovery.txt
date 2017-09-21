@@ -1,0 +1,17 @@
+<T1> start
+<T2> start
+<T1> course.C101.title, 전상개론, 전산개론
+<T1> commit 
+<T3> start
+<T2> course.C304.title, 기계학습, 객체지향언어
+<T3> professor.92502.name, 장민설, 장민석
+<T4> start
+checkpoint <T2>, <T3>, <T4>
+<T3> department.920.office, 201호, 301호
+<T4> course.C101.title, 전산개론, 컴퓨터의개념및실습
+<T2> department.925.dept_name, 전자공학과, 전기공학부
+<T3> commit
+<T5> start
+<T4> course.C101.title, 전산개론
+<T4> abort 
+<T5> employee.박철수.rank, 과장, 부장
