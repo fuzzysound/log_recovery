@@ -1,4 +1,4 @@
-<T1> start
+﻿<T1> start
 <T2> start
 <T1> course.C101.title, 전상개론, 전산개론
 <T1> commit 
@@ -15,3 +15,8 @@ checkpoint <T2>, <T3>, <T4>
 <T4> course.C101.title, 전산개론
 <T4> abort 
 <T5> employee.박철수.rank, 과장, 부장
+<T5> employee.박철수.rank, 과장
+<T5> abort
+<T2> department.925.dept_name, 전자공학과
+<T2> course.C304.title, 기계학습
+<T2> abort

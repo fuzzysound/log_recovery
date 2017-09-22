@@ -1,3 +1,5 @@
+# DB에 연결하여 커서를 불러들인다
+
 import pymysql
 
 connection = pymysql.connect(
